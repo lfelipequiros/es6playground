@@ -4,7 +4,7 @@
   "description": "This is a stup wo work around es6 with babel by felipe quiros",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "build": "babel --presets es2015 src -d dist"
   },
   "repository": {
     "type": "git",
