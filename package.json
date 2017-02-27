@@ -1,0 +1,28 @@
+{
+  "name": "es6playground",
+  "version": "1.0.0",
+  "description": "This is a stup wo work around es6 with babel by felipe quiros",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfelipequiros/es6playground.git"
+  },
+  "keywords": [
+    "es6",
+    "babel",
+    "playgroudn"
+  ],
+  "author": "felipe quiros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lfelipequiros/es6playground/issues"
+  },
+  "homepage": "https://github.com/lfelipequiros/es6playground#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.1.10"
+  },
+  "presets": ["env"]
+}
